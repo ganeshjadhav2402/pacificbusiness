@@ -2683,7 +2683,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 
 .testimonial-section .clients-outer .logo img{
   position: relative;
-  width: auto;
+  width: 130px;;
   transition: all 500ms ease;
 }
 
