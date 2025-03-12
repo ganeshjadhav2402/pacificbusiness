@@ -3222,8 +3222,8 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 
 .main-footer .footer-bottom .copyright{
   position: relative;
-  font-size: 15px;
-  color: #616b8c;
+  font-size: 25px;
+  color: #3462ad;
 }
 
 .main-footer .footer-bottom .footer-social li{
@@ -3239,8 +3239,8 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 .main-footer .footer-bottom .footer-social li a{
   position: relative;
   display: inline-block;
-  font-size: 16px;
-  color: #192d66;
+  font-size: 25px;
+  color: #3462ad;
 }
 
 .main-footer .footer-bottom .footer-social li a:hover{
