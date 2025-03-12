@@ -1921,7 +1921,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 .counter-block-one .count-outer span{
   position: relative;
   display: inline-block;
-  font-size: 50px;
+  font-size: 49px;
   line-height: 50px;
   font-weight: 700;
   color: #192d66;
