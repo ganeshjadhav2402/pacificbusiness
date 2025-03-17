@@ -3223,7 +3223,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 .main-footer .footer-bottom .copyright{
   position: relative;
   font-size: 25px;
-  color: #3461ab;
+  color: #3462ad !important; 
 }
 
 .main-footer .footer-bottom .footer-social li{
