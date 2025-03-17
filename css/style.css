@@ -3209,6 +3209,11 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   color: #fbef55;
 }
 
+.main-footer .footer-top .links-widget .widget-content i{
+  font-size: 25px;
+  color: #3462ac;
+}
+
 .main-footer .footer-top .company-widget{
   margin-left: 60px;
 }
