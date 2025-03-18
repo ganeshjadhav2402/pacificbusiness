@@ -13471,7 +13471,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   display: block;
   font-size: 30px;
   font-weight: 700;
-  color: #fff;
+  color: #3461ab;
   line-height: 35px;
   margin-bottom: 12px;
 }
@@ -13479,7 +13479,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 .statistics-section .inner-box .text{
   position: relative;
   display: block;
-  color: #ffe4df;
+  color: #000;
 }
 
 .statistics-section .inner-box .top-box .text{
@@ -13492,7 +13492,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   font-size: 18px;
   font-weight: 700;
   line-height: 26px;
-  color: #ffe4df;
+  color: #000;
   margin-bottom: 28px;
 }
 
@@ -13501,9 +13501,9 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   display: inline-block;
   font-size: 16px;
   font-weight: 700;
-  color: #0c0d24;
+  color: #fff;
   text-transform: uppercase;
-  background: #fff;
+  background: #3461ab;
   padding: 12px 44px;
   border-radius: 30px;
 }
@@ -13533,7 +13533,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   height: 100px;
   line-height: 100px;
   text-align: center;
-  background: #fff;
+  background: #3461ab;
   border-radius: 50px;
   -webkit-animation: pulse 5s infinite;
   -o-animation: pulse 5s infinite;
