@@ -1,0 +1,10 @@
+# Exclude Files From All Robots:
+
+# robots.txt for https://pacificbusinesspark.in/
+
+User-agent: *
+
+Sitemap:  https://pacificbusiesspark.in/sitemap.xml
+
+
+# End robots.txt file
