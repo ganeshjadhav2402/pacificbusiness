@@ -4,11 +4,12 @@ Disallow: /fonts/
 Disallow: /css/
 Allow: /pages/
 
-Sitemap: https://pacificbusiesspark.in/sitemap.xml
-Sitemap: https://pacificbusinesspark.in/index.html
-Sitemap: https://pacificbusinesspark.in/pages/about.html
-Sitemap: https://pacificbusinesspark.in/pages/park.html
-Sitemap: https://pacificbusinesspark.in/pages/gallery.html
-Sitemap: https://pacificbusinesspark.in/pages/clients.html
-Sitemap: https://pacificbusinesspark.in/pages/blog.html
-Sitemap: https://pacificbusinesspark.in/pages/contact.html
+Sitemap: https://www.pacificbusiesspark.in/sitemap.xml
+Allow: https://www.pacificbusiesspark.in/
+Allow: https://www.pacificbusinesspark.in/index.html
+Allow: https://www.pacificbusinesspark.in/pages/about.html
+Allow: https://www.pacificbusinesspark.in/pages/park.html
+Allow: https://www.pacificbusinesspark.in/pages/gallery.html
+Allow: https://www.pacificbusinesspark.in/pages/clients.html
+Allow: https://www.pacificbusinesspark.in/pages/blog.html
+Allow: https://www.pacificbusinesspark.in/pages/contact.html
