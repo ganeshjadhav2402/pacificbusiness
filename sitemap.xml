@@ -8,8 +8,44 @@
 
 
 <url>
-  <loc>https://pacificbusinesspark.in/</loc>
-  <lastmod>2022-11-25T05:08:47+00:00</lastmod>
+  <loc>http://pacificbusinesspark.in/</loc>
+  <lastmod>2025-03-19T05:59:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://pacificbusinesspark.in/index.html</loc>
+  <lastmod>2025-03-19T05:59:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://pacificbusinesspark.in/pages/about.html</loc>
+  <lastmod>2025-03-19T05:59:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://pacificbusinesspark.in/pages/park.html</loc>
+  <lastmod>2025-03-19T05:59:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://pacificbusinesspark.in/pages/gallery.html</loc>
+  <lastmod>2025-03-19T05:59:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://pacificbusinesspark.in/pages/clients.html</loc>
+  <lastmod>2025-03-19T05:59:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://pacificbusinesspark.in/pages/blog.html</loc>
+  <lastmod>2025-03-19T05:59:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://pacificbusinesspark.in/pages/contact.html</loc>
+  <lastmod>2025-03-19T05:59:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
