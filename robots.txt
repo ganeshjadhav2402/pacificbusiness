@@ -1,10 +1,14 @@
-# Exclude Files From All Robots:
-
-# robots.txt for https://pacificbusinesspark.in/
-
 User-agent: *
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /css/
+Allow: /pages/
 
-Sitemap:  https://pacificbusiesspark.in/sitemap.xml
-
-
-# End robots.txt file
+Sitemap: https://pacificbusiesspark.in/sitemap.xml
+Sitemap: https://pacificbusinesspark.in/index.html
+Sitemap: https://pacificbusinesspark.in/pages/about.html
+Sitemap: https://pacificbusinesspark.in/pages/park.html
+Sitemap: https://pacificbusinesspark.in/pages/gallery.html
+Sitemap: https://pacificbusinesspark.in/pages/clients.html
+Sitemap: https://pacificbusinesspark.in/pages/blog.html
+Sitemap: https://pacificbusinesspark.in/pages/contact.html
