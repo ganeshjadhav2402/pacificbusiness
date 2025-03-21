@@ -18955,6 +18955,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 }
 
 .blog-single .blog-single-content .content-style-two .image-box .image.image-1{
+  width: 8  0%;
   margin-right: 6px;
 }
 
@@ -18965,6 +18966,8 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 .blog-single .blog-single-content .content-style-two .image-box{
   position: relative;
   margin-bottom: 25px;
+  display: flex;
+  justify-content: center;
 }
 
 .blog-single .blog-single-content .content-style-two h3{
@@ -18984,8 +18987,8 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   color: #0c0d24;
   font-style: italic;
   margin-bottom: 30px;
-  padding: 0px 60px;
-  text-align: center;
+  padding: 0px 20px;
+  text-align: left;
 }
 
 .blog-single .blog-single-content .content-style-two .text p{
