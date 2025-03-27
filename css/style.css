@@ -10231,6 +10231,10 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   transition: all 500ms ease;
 }
 
+.counter-block-two .inner-box .icon-box img{ 
+  width: 80px;
+}
+
 .counter-block-two .inner-box .count-outer span{
   position: relative;
   display: inline-block;
