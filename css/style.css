@@ -9099,7 +9099,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   position: relative;
   display: block;
   font-size: 16px;
-  color: #e3f7e1;
+  color: #3461ab;
 }
 
 .news-style-three.home-5{
@@ -10241,7 +10241,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   font-size: 36px;
   line-height: 45px;
   font-weight: 700;
-  color: #0c0d24;
+  color: #3461ab;
   margin-bottom: 16px;
   transition: all 500ms ease;
 }
