@@ -10493,7 +10493,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 .news-block-three .inner-box .image-box{
   position: relative;
   display: block;
-  background: #192d66;
+  background: #3461ab;
   overflow: hidden;
 }
 
@@ -18531,7 +18531,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 }
 
 .blog-grid .news-block-two .inner-box h4 a:hover{
-  color: #fc9a36;
+  color: #938802;
   text-decoration: underline;
 }
 
