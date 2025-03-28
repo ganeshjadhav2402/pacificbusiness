@@ -1315,12 +1315,36 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 .main-slider .slide:before{
   position: absolute;
   content: '';
-  background: rgba(7, 14, 32, 0.7);
+  /* background: rgba(7, 14, 32, 0.7); */
   width: 100%;
   height: 100%;
   left: 0px;
   top: 0px;
 }
+
+.slide .container:hover{
+  opacity: 0;
+}
+.slide .container:hover  .slide:before{
+  opacity: 0;
+}
+.main-slider .slide .overlay {
+  position: absolute;
+  top: 50;
+  left: 50;
+  right: 0;
+  transform: translate(30%, -30%);
+  background-color: #00000078;
+  overflow: hidden;
+  width: 100vw;
+  height:100vh;
+  transition: .8s ease-in-out;
+  opacity: 100;
+}
+
+.content-box:hover .overlay{
+    opacity: 0;
+  }
 
 .main-slider .content-box{
   position: relative;
