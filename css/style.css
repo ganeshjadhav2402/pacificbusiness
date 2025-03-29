@@ -1315,15 +1315,15 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 }
 
 .sticky-header .outer-line{
-  background: #000000;
-  color: #ffffff !important;
+  background: #ffffff;
+  color: #000000 !important;
   display: flex;  
   justify-content: center;
 }
 
 .sticky-header .outer-line .button-box a{
   font-size: 20px;
-  color: #fff;
+  color: #013891;
   padding: 10px 20px 5px 5px;
 }
 
