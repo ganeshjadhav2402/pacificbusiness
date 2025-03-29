@@ -946,10 +946,10 @@ img {
   left: 0px;
   top: 38px;
   width: 100%;
-  background: #000000;
+  background: #ffffff;
   display: flex;
   justify-content: center;
-  color: #fff;
+  color: #000000;
 }
 
 .main-header .header-bottom .outer-container .nav-outer .menu-area .button-box{
@@ -972,7 +972,7 @@ img {
 
 .main-header .header-bottom .container .outer-line .button-box a{
   font-size: 30px;
-  color: #fff;
+  color: #192d66;
 }
 
 .main-header .header-bottom .outer-container .nav-outer .menu-area .button-box a:hover{
