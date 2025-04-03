@@ -231,7 +231,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .pull-right{
-  /* float: right; */
+  float: right;
 }
 
 .gray-bg{
@@ -597,6 +597,11 @@ img {
 
 .main-header .header-upper .inner-container .left-content .info-box{
   margin-right: 290px;
+}
+
+.main-header .header-upper .inner-container .right-content{
+  position: relative;
+  display: grid;
 }
 
 .main-header .header-upper .inner-container .info-box h5{
