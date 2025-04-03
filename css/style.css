@@ -2761,9 +2761,11 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   position: relative;
   display: flex;
   justify-content: center;
-  width: 180px;
 }
 
+.testimonial-section .testimonial-content .content-box .author-info .cli-img img{
+  width: 180px;
+}
 .testimonial-section .testimonial-content{
   position: relative;
   display: block;
