@@ -226,6 +226,8 @@ h1,h2,h3,h4,h5,h6 {
 
 .pull-left{
   float: left;
+  display: flex;
+  justify-content: center;
 }
 
 .pull-right{
@@ -626,6 +628,17 @@ img {
   display: inline-block;
   top: -8px;
   left: -136px;
+}
+
+.main-header .header-upper .inner-container .logo-box .outer-line a{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  /* left: -8px; */
+  font-size: 15px;
+  background-color: #b53900;
+  color: #ffffff;
+  padding: 2px;
 }
 
 /** language **/
