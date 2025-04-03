@@ -231,7 +231,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .pull-right{
-  float: right;
+  /* float: right; */
 }
 
 .gray-bg{
@@ -573,10 +573,16 @@ img {
   position: absolute;
   left: 0px;
   top: 4px;
-  font-size: 40px;
+  font-size: 30px;
   color: #5d5d66;
   line-height: 40px;
   transition: all 500ms ease;
+}
+.main-header .header-upper .inner-container .info-box .icon-mail{
+  position: absolute;
+  left: 0px;
+  top: 4px;
+  font-size: 30px;
 }
 
 .main-header .header-upper .inner-container .info-box:hover .icon-box {
