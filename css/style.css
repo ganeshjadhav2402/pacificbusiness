@@ -13316,7 +13316,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 .about-banner:before{
   position: absolute;
   content: '';
-  background: rgba(255,255,255,0.65);
+  background: rgba(64 63 63 / 65%);
   width: 100%;
   height: 100%;
   left: 0px;
@@ -13329,7 +13329,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   font-size: 90px;
   line-height: 88px;
   font-weight: 700;
-  color: #0c0d24;
+  color: #fff;
   margin-bottom: 16px;
 }
 
@@ -13338,7 +13338,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   display: block;
   font-size: 24px;
   line-height: 32px;
-  color: #0c0d24;
+  color: #ffffff;
 }
 
 
@@ -13365,7 +13365,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   position: relative;
   display: block;
   font-size: 16px;
-  color: #fbef55;
+  color: #3461ab;
   font-weight: 700;
   margin-bottom: 10px;
 }
@@ -13428,7 +13428,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   display: inline-block;
   font-size: 65px;
   line-height: 65px;
-  color: #fbef55;
+  color: #3461ab;
   margin-bottom: 12px;
 }
 
