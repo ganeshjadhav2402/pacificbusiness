@@ -2258,6 +2258,13 @@
 }
 
 @media only screen and (max-width: 399px){
+  .main-header .header-upper .inner-container .left-content .info-box, .main-header .header-upper .inner-container .right-content{
+    display: none;
+  }
+  .main-header .header-upper .inner-container .logo-box{
+    position: relative;
+    display: contents;
+  }
 
 	.main-header .header-bottom .info-box .social-links{
     display: none;
