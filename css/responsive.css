@@ -2282,6 +2282,10 @@
     display: block;
   }
 
+  .weare-section .content-box{
+    padding: 5px 0 0 0 ;
+  }
+
   .weare-section .inner-content .inner-box h2{
     font-size: 24px;
     line-height: 30px;
