@@ -2284,7 +2284,7 @@
   }
 
   .main-slider .slide{
-    padding: 0px 0px 0px 0px;
+    padding: 30px 0px 0px 0px;
   }
 
   .main-slider .slide .overlay {
@@ -2317,7 +2317,17 @@
     position: relative;
     display: flex;
     justify-content: start;
-    column-gap: 15px;
+    column-gap: 20px;
+  }
+
+  .weare-section h2{
+    font-size: 30px;
+  }
+
+  .weare-section .content-box .title-box .text {
+    font-size: 15px;
+    line-height: 20px;
+    color: #454547;
   }
 
   .weare-section .content-box .inner-box .single-item{
@@ -2329,6 +2339,10 @@
   .weare-section .content-box .inner-box .single-item .text{
     font-size: 15px;
     line-height: 20px;
+  }
+
+  .weare-section .content-box .inner-box .single-item .icon-box{
+    width: 60px;
   }
 
   .weare-section .inner-content .inner-box h2{
