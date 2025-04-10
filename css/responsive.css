@@ -2286,6 +2286,24 @@
     padding: 5px 0 0 0 ;
   }
 
+  .weare-section .content-box .inner-box{
+    position: relative;
+    display: flex;
+    justify-content: start;
+    column-gap: 20px;
+  }
+
+  .weare-section .content-box .inner-box .single-item{
+    width: 40%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+  }
+
+  .weare-section .content-box .inner-box .single-item .text{
+    font-size: 15px;
+    line-height: 20px;
+  }
+
   .weare-section .inner-content .inner-box h2{
     font-size: 24px;
     line-height: 30px;
