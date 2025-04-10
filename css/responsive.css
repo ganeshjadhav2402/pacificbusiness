@@ -2313,6 +2313,14 @@
     padding: 5px 0 0 0 ;
   }
 
+  .main-slider .content-box h1{
+    font-size: 40px;
+  }
+
+  .main-slider .content-box .text {
+    font-size: 17px;
+  }
+
   .weare-section .content-box .inner-box{
     position: relative;
     display: flex;
