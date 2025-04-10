@@ -2088,8 +2088,17 @@
 
 @media only screen and (max-width: 499px){
 
+  .main-header .header-upper .inner-container .left-content .info-box, .main-header .header-upper .inner-container .right-content{
+    display: none;
+  }
+
   .main-slider .image-box{
     display: none;
+  }
+
+  .main-header .header-upper .inner-container .logo-box{
+    position: relative;
+    display: contents;
   }
 
   .counter-block-one,
@@ -2290,7 +2299,7 @@
     position: relative;
     display: flex;
     justify-content: start;
-    column-gap: 20px;
+    column-gap: 15px;
   }
 
   .weare-section .content-box .inner-box .single-item{
