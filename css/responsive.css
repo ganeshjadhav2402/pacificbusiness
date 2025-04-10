@@ -2283,6 +2283,24 @@
     padding-left: 15px;
   }
 
+  .main-slider .slide{
+    padding: 0px 0px 0px 0px;
+  }
+
+  .main-slider .slide .overlay {
+    position: absolute;
+    top: 50;
+    left: 50;
+    right: 0;
+    transform: translate(0%, 0%);
+    background-color: #00000078;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+    transition: .8s ease-in-out;
+    opacity: 100;
+}
+
   .main-slider .content-box .button-box .link-button{
     margin: 0px 0px 15px 0px;
   }
