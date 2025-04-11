@@ -1990,7 +1990,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   position: relative;
   display: block;
   font-size: 18px;
-  top: -15px;
+  top: -28px;
   line-height: 24px;
   color: #192d66;
 }
@@ -1999,7 +1999,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   position: relative;
   display: inline-block;
   font-size: 49px;
-  line-height: 50px;
+  line-height: 30px;
   font-weight: 700;
   color: #192d66;
 }
@@ -2090,7 +2090,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 
 .service-block-one .inner-box .content-box{
   position: relative;
-  padding: 28px 30px 30px 240px;
+  padding: 12px 18px 15px 231px;
   min-height: 300px;
   margin-bottom: 30px;
 }
