@@ -14038,6 +14038,31 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   color: #0c0d24;
 }
 
+.client-style-five .inner-container {
+  position: relative;
+  background: #fff;
+  padding: 74px 55px 30px 55px;
+  /* margin: -175px -55px 0px -55px; */
+}
+
+.client-style-five .title-box h1 {
+  position: relative;
+  display: block;
+  font-size: 40px;
+  line-height: 48px;
+  color: #0c0d24;
+  font-weight: 700;
+  margin-bottom: 23px;
+}
+
+.client-style-five .title-box h3 {
+  position: relative;
+  display: block;
+  font-size: 24px;
+  line-height: 32px;
+  color: #5d5d66;
+}
+
 .team-style-two.team-page{
   position: relative;
   padding: 80px 0px;
@@ -14077,7 +14102,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 .fact-counter.team-page-2{
   position: relative;
   background: #fff;
-  padding: 100px 0px 80px 0px;
+  padding: 20px 0px 80px 0px;
 }
 
 .fact-counter.team-page-2 .inner-container{
