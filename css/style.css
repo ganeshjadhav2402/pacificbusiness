@@ -583,9 +583,22 @@ img {
   left: 0px;
   top: 4px;
   font-size: 30px;
+  color: #5d5d66;
+  line-height: 40px;
+  transition: all 500ms ease;
 }
 
 .main-header .header-upper .inner-container .info-box:hover .icon-box {
+  -webkit-transform: scale(2);
+  -moz-transform: scale(2);
+  -ms-transform: scale(2);
+  -o-transform: scale(2);
+  transform: scale(2);
+  left: 50%;
+  opacity: .10;
+}
+
+.main-header .header-upper .inner-container .info-box:hover .icon-mail {
   -webkit-transform: scale(2);
   -moz-transform: scale(2);
   -ms-transform: scale(2);
