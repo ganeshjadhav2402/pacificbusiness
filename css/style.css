@@ -13619,7 +13619,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   color: #fff;
   text-transform: uppercase;
   background: #3461ab;
-  padding: 12px 44px;
+  padding: 12px 24px;
   border-radius: 30px;
 }
 
@@ -13631,6 +13631,12 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   position: relative;
   display: block;
   margin-bottom: 46px;
+}
+
+.statistics-section .inner-box .top-box .lower-box h2{
+font-size: 20px;
+margin-top: 5px;
+margin-bottom: 5px;
 }
 
 .statistics-section .inner-box .video-box{
