@@ -2446,6 +2446,38 @@
   font-weight: 400;
 }
 
+.service-section .sec-title {
+  margin-bottom: -1px;
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.service-block-one .inner-box{
+  max-width: 300px;
+  margin: 15px auto;
+}
+
+.service-block-one .inner-box .image-box img {
+  width: 50%;
+  opacity: 1;
+  transition: all 500ms ease;
+}
+
+.service-section .service-block-one .inner-box .content-box {
+  position: relative;
+  padding: 0px 0px 5px 15px;
+  padding-top: 5px !important;
+  min-height: 300px;
+  margin-bottom: 30px;
+}
+
   .ourmission-style-two .content-box .inner-content .content .lower-content{
     padding-left: 0px;
   }
