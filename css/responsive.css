@@ -2535,6 +2535,27 @@
     font-size: 26px;
   }
 
+  .about-section {
+    padding-top: 10px;
+}
+
+.about-section .content-box .top-content {
+  position: relative;
+  display: block;
+  margin-bottom: 15px;
+}
+
+.about-section .content-column .lower-content {
+    padding: 13px 0px 45px 0px;
+}
+
+.about-section .content-column .lower-content a {
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  top: 98px;
+}
+
   .about-style-four .lower-content .inner-box .inner-content{
     padding: 50px 15px;
   }
