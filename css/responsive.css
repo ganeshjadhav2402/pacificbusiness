@@ -2556,6 +2556,14 @@
   top: 98px;
 }
 
+.project-section {
+  padding: 20px 0px 0px 0px;
+}
+
+.project-section:before {
+  top: 140px;
+}
+
   .about-style-four .lower-content .inner-box .inner-content{
     padding: 50px 15px;
   }
