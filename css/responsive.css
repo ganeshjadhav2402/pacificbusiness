@@ -2427,6 +2427,25 @@
   margin-bottom: 0px;
 }
 
+.sec-title h1 {
+  position: relative;
+  display: block;
+  font-size: 30px;
+  line-height: 46px;
+  color: #192d66;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.sec-title p {
+  position: relative;
+  display: block;
+  font-size: 16px;
+  line-height: 24px;
+  color: #666666;
+  font-weight: 400;
+}
+
   .ourmission-style-two .content-box .inner-content .content .lower-content{
     padding-left: 0px;
   }
