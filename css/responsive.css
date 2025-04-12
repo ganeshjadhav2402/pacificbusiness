@@ -2460,12 +2460,12 @@
 }
 
 .service-block-one .inner-box{
-  max-width: 300px;
+  max-width: 150px;
   margin: 15px auto;
 }
 
 .service-block-one .inner-box .image-box img {
-  width: 50%;
+  /* width: 50%; */
   opacity: 1;
   transition: all 500ms ease;
 }
@@ -2474,8 +2474,27 @@
   position: relative;
   padding: 0px 0px 5px 15px;
   padding-top: 5px !important;
+  max-width: 200px;
   min-height: 300px;
   margin-bottom: 30px;
+}
+
+.service-block{
+  width: 50%;
+}
+
+.service-section .service-block:nth-child(2) .service-block-one .inner-box .content-box{
+  padding: 0px;
+}
+
+.service-block-one .inner-box .content-box h3 {
+  font-size: 17px;
+  line-height: 21px;
+}
+
+.service-block-one .inner-box .content-box .text {
+  font-size: 15px;
+  line-height: 20px;
 }
 
   .ourmission-style-two .content-box .inner-content .content .lower-content{
