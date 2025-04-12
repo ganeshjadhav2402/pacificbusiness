@@ -2484,7 +2484,15 @@
 }
 
 .service-section .service-block:nth-child(2) .service-block-one .inner-box .content-box{
-  padding: 0px;
+  padding: 0px 0px 0px 14px;
+}
+
+.service-section .service-block:last-child .service-block-one .inner-box .content-box {
+  padding: 0px 0px 0px 14px;
+}
+
+.service-section .service-block:last-child .service-block-one .inner-box .image-box {
+  width: 100%;
 }
 
 .service-block-one .inner-box .content-box h3 {
