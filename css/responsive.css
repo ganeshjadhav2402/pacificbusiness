@@ -2321,6 +2321,10 @@
     font-size: 17px;
   }
 
+  .weare-section {
+    padding-bottom: 0px;
+}
+
   .weare-section .content-box .inner-box{
     position: relative;
     display: flex;
@@ -2366,6 +2370,62 @@
     font-size: 40px;
     line-height: 40px;
   }
+
+  .ourmission-section {
+    position: relative;
+    display: block;
+    padding: 0px 0px 0px;
+}
+
+.ourmission-section .content-box .inner-box {
+  display: flex;
+  max-width: 594px;
+}
+
+.counter-block-one {
+  position: relative;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  background: #fbef55;
+  text-align: center;
+  border-radius: 50%;
+  padding: 75px 30px 50px 30px;
+  box-shadow: 0 15px 20px rgba(0, 0, 0, 0.05);
+}
+
+.counter-block-one .text {
+  position: relative;
+  display: block;
+  font-size: 14px;
+  top: -54px;
+  line-height: 18px;
+  color: #192d66;
+}
+
+.counter-block-one .count-outer span {
+  position: relative;
+  display: inline-block;
+  font-size: 22px;
+  font-weight: 700;
+  top: -54px;
+  color: #192d66;
+}
+
+.counter-block-one .count-outer span.symble {
+  top: -65px;
+  font-size: 18px;
+}
+
+.ourmission-section .image {
+  margin: 0px 0px -3px 0px;
+}
+
+.ourmission-section .content-box .title-box {
+  position: relative;
+  display: block;
+  margin-bottom: 0px;
+}
 
   .ourmission-style-two .content-box .inner-content .content .lower-content{
     padding-left: 0px;
