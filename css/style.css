@@ -14035,13 +14035,13 @@ margin-bottom: 5px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  padding: 170px 0px 155px 0px;
+  padding: 131px 0px 88px 0px;
 }
 
 .page-title:before{
   position: absolute;
   content: '';
-  background: rgba(255,255,255,0.3);
+  background: rgba(0 0 0 / 54%);
   width: 100%;
   height: 100%;
   left: 0px;
@@ -14054,7 +14054,7 @@ margin-bottom: 5px;
   font-size: 60px;
   line-height: 65px;
   font-weight: 700;
-  color: #0c0d24;
+  color: #ffffff;
   margin-bottom: 17px;
 }
 
@@ -14063,7 +14063,7 @@ margin-bottom: 5px;
   display: block;
   font-size: 24px;
   line-height: 32px;
-  color: #0c0d24;
+  color: #e0e0e0;
 }
 
 .client-style-five .inner-container {
