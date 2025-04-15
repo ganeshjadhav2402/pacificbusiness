@@ -2309,6 +2309,10 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   margin-bottom: 70px;
 }
 
+.about-section .content-box .lower-content h3{
+  font-size: 25px;
+}
+
 .about-section .content-column .lower-content{
   position: relative;
   display: block;
