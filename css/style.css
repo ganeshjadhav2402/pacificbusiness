@@ -10345,7 +10345,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 }
 
 .counter-block-two .inner-box .icon-box img{ 
-  width: 80px;
+  width: 107px;
 }
 
 .counter-block-two .inner-box .count-outer span{
@@ -10374,6 +10374,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   display: block;
   font-size: 18px;
   line-height: 28px;
+  top: 40px;
   color: #3c3c49;
   padding-top: 4px;
   border-top: 1px solid #192d66;
