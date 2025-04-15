@@ -14067,6 +14067,16 @@ margin-bottom: 5px;
   color: #e0e0e0;
 }
 
+.client .content-box h1{
+  position: relative;
+  display: block;
+  font-size: 55px;
+  line-height: 65px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 17px;
+}
+
 .client-style-five .inner-container {
   position: relative;
   background: #fff;
