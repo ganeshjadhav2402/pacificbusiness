@@ -13341,20 +13341,22 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 
 .about-banner .content-box h1{
   position: relative;
-  display: block;
+  display: flex;
   font-size: 60px;
   line-height: 88px;
   font-weight: 700;
   color: #fff;
   margin-bottom: 16px;
+  justify-content: center;
 }
 
 .about-banner .content-box .text{
   position: relative;
-  display: block;
+  display: flex;
   font-size: 24px;
   line-height: 32px;
   color: #ffffff;
+  justify-content: center;
 }
 
 
