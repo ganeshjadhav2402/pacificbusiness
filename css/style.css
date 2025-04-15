@@ -9153,6 +9153,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   position: relative;
   display: block;
   overflow: hidden;
+  width: 76%;
 }
 
 .team-block-four .inner-box .image-box {
