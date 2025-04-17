@@ -14356,6 +14356,7 @@ margin-bottom: 5px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  height: 500px;
 }
 
 .page-title-two:before{
