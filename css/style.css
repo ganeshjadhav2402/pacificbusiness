@@ -14549,7 +14549,7 @@ margin-bottom: 5px;
   position: relative;
   display: block;
   background: #fff;
-  padding: 26px 30px 28px 30px;
+  padding: 26px 29px 28px 30px;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
   transition: all 500ms ease;
 }
@@ -14566,6 +14566,7 @@ margin-bottom: 5px;
   color: #000;
   margin-bottom: 12px;
   transition: all 500ms ease;
+  width: 67px;
 }
 
 .solution-method.type-two .lower-box .single-item:hover .inner-box .icon-box,
