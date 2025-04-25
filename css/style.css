@@ -18981,6 +18981,8 @@ margin-bottom: 5px;
   position: relative;
   display: block;
   margin-bottom: 10px;
+  font-size: 24px;
+  line-height: 30px;
 }
 
 .news-block-four .inner-box .lower-content .link-btn a{
@@ -19102,6 +19104,8 @@ margin-bottom: 5px;
   position: relative;
   display: block;
   padding-bottom: 26px;
+  font-size: 24px;
+  line-height: 30px;
 }
 
 .blog-single .blog-single-content .content-style-one .image-box{
