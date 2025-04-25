@@ -19121,6 +19121,8 @@ margin-bottom: 5px;
   position: relative;
   display: block;
   padding-bottom: 27px;
+  font-size: 24px;
+  line-height: 30px;
 }
 
 .blog-single .blog-single-content .content-style-two .image-box .image{
@@ -19159,7 +19161,7 @@ margin-bottom: 5px;
   font-size: 24px;
   line-height: 32px;
   color: #0c0d24;
-  font-style: italic;
+  /* font-style: italic; */
   margin-bottom: 30px;
   padding: 0px 20px;
   text-align: left;
