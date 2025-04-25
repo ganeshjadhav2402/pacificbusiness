@@ -2427,6 +2427,28 @@
   margin-bottom: 0px;
 }
 
+.testimonial-section .testimonial-content .content-box .text{
+  margin-bottom: 10px;
+}
+
+.testimonial-section .testimonial-content .content-box .text:before{
+  display: none;
+}
+
+.testimonial-section .inner-content{
+  margin-bottom: -186px;
+}
+
+.testimonial-section .sec-title h1{
+  margin-bottom: 0px;
+  padding-top: 10px;
+}
+
+.testimonial-section .sec-title h1:before{
+  font-size: 50px;
+  line-height: 0px;
+}
+
 .sec-title h1 {
   position: relative;
   display: block;
