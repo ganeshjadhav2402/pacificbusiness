@@ -19122,7 +19122,7 @@ margin-bottom: 5px;
 .blog-single .blog-single-content .content-style-two .text{
   position: relative;
   display: block;
-  padding-bottom: 27px;
+  padding-bottom: 10px;
   font-size: 20px;
   line-height: 28px;
 }
@@ -19143,7 +19143,7 @@ margin-bottom: 5px;
 
 .blog-single .blog-single-content .content-style-two .image-box{
   position: relative;
-  margin-bottom: 25px;
+  /* margin-bottom: 25px; */
   display: flex;
   justify-content: center;
 }
