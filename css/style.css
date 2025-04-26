@@ -18981,8 +18981,8 @@ margin-bottom: 5px;
   position: relative;
   display: block;
   margin-bottom: 10px;
-  font-size: 24px;
-  line-height: 30px;
+  font-size: 20px;
+  line-height: 28px;
 }
 
 .news-block-four .inner-box .lower-content .link-btn a{
@@ -19062,8 +19062,8 @@ margin-bottom: 5px;
 .blog-single .blog-single-content .news-block-four .lower-content h3{
   position: relative;
   display: block;
-  font-size: 24px;
-  line-height: 30px;
+  font-size: 20px;
+  line-height: 28px;
   color: #5d5d66;
   margin-bottom: 8px;
 }
@@ -19098,6 +19098,8 @@ margin-bottom: 5px;
 
 .blog-single .blog-single-content .content-style-one .text p:last-child{
   margin-bottom: 0px;
+  font-size: 20px;
+  line-height: 28px;
 }
 
 .blog-single .blog-single-content .content-style-one .text{
@@ -19121,8 +19123,8 @@ margin-bottom: 5px;
   position: relative;
   display: block;
   padding-bottom: 27px;
-  font-size: 24px;
-  line-height: 30px;
+  font-size: 20px;
+  line-height: 28px;
 }
 
 .blog-single .blog-single-content .content-style-two .image-box .image{
