@@ -2729,7 +2729,11 @@
   }
 
   .main-footer .footer-top {
-    padding: 72px 0px 29px 0px;
+    padding: 72px 0px 0px 0px;
+}
+
+.main-footer .footer-top .links-widget {
+  margin-bottom: 15px;
 }
 
 .main-footer .footer-top .bg-column{
