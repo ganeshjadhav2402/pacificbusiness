@@ -2733,7 +2733,7 @@
 }
 
 .main-footer .footer-top .bg-column{
-  top: -1 px;
+  margin-top: -1px;
 }
 
   .main-footer .footer-top .footer-column:nth-child(2){
