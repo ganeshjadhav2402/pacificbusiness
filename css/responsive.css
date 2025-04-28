@@ -2382,6 +2382,10 @@
   max-width: 594px;
 }
 
+.team-section {
+  padding-top: 0px;
+}
+
 .counter-block-one {
   position: relative;
   display: inline-block;
@@ -2429,6 +2433,8 @@
 
 .testimonial-section .testimonial-content .content-box .text{
   margin-bottom: 10px;
+  font-size: 13px;
+  line-height: 21px;
 }
 
 .testimonial-section .testimonial-content .content-box .text:before{
@@ -2436,7 +2442,7 @@
 }
 
 .testimonial-section .inner-content{
-  margin-bottom: -186px;
+  margin-bottom: -75px;
 }
 
 .testimonial-section .sec-title h1{
@@ -2722,6 +2728,40 @@
     padding-top: 20px;
   }
 
+  .main-footer .footer-top {
+    padding: 72px 0px 29px 0px;
+}
+
+.main-footer .footer-top .bg-column{
+  top: -1 px;
+}
+
+  .main-footer .footer-top .footer-column:nth-child(2){
+    width: 40%;
+  }
+  .main-footer .footer-top .footer-column:nth-child(3){
+    width: 40%;
+  }
+  
+  .main-footer .footer-bottom{
+    padding: 10px 0 0 0;
+  }
+
+  .main-footer .footer-bottom .copyright {
+    position: absolute;
+    display: flex;
+  }
+
+  .main-footer .footer-bottom .footer-widget .widget-content{
+    position: relative;
+    display: flex;
+    width: 100%;
+    top: 30px;
+  }
+
+  .main-footer .footer-bottom .footer-social{
+    position: relative;
+  }
 
 }
 
