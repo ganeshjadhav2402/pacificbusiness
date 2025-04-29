@@ -2616,9 +2616,29 @@
     padding: 70px 15px;
   }
 
+  .about-banner {
+    padding: 54px 0px 193px 0px;
+}
+
+.about-banner .content-box h1{
+  font-size: 40px;
+}
+
+.about-banner .content-box .text {
+  font-size: 17px;
+}
+
+.about-style-five .inner-container {
+  padding: 10px 50px 17px 50px;
+}
+
   .about-style-five .title-box h1 {
-    font-size: 35px;
-    line-height: 35px;
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .about-style-five .title-box h3 {
+    font-size: 15px;
+    line-height: 23px;
   }
 
   .about-style-five .lower-content .left-column .content-box,
