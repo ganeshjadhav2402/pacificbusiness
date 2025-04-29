@@ -2732,6 +2732,11 @@
     padding-top: 20px;
   }
 
+  .main-footer .footer-top .logo-widget .footer-logo {
+    display: flex;
+    justify-content: center;
+}
+
   .main-footer .footer-top {
     padding: 72px 0px 0px 0px;
 }
@@ -2740,15 +2745,23 @@
   margin-bottom: 15px;
 }
 
+.main-footer .footer-top .logo-widget .text {
+  display: flex;
+  justify-content: center;
+}
+
 .main-footer .footer-top .bg-column{
   margin-top: -1px;
 }
 
   .main-footer .footer-top .footer-column:nth-child(2){
-    width: 40%;
+    width: 36%;
   }
   .main-footer .footer-top .footer-column:nth-child(3){
-    width: 40%;
+    width: 25%;
+  }
+  .main-footer .footer-top .footer-column:nth-child(4){
+    width: 39%;
   }
   
   .main-footer .footer-bottom{
