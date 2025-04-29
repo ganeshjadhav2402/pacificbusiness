@@ -2677,6 +2677,20 @@
     height: 100%;
   }
 
+  .counter-block-two .inner-box {
+    padding: 1px 0px 21px 0px;
+    width: 50%;
+    height: 140px;
+  }
+
+  .counter-block-two .inner-box .text {
+    top: 10px;
+  }
+
+  .counter-block-two .inner-box .icon-box img {
+    width: 80px;
+}
+
   .single-shop .products-details .content-box .addto-cart-box .item-quantity{
     display: block;
     width: 100%;
