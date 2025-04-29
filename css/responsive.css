@@ -2757,14 +2757,13 @@
   }
 
   .main-footer .footer-bottom .footer-widget .widget-content{
-    position: relative;
-    display: flex;
-    width: 100%;
-    top: 30px;
+    display: none;
   }
 
   .main-footer .footer-bottom .footer-social{
     position: relative;
+    display: flex;
+    margin: 43px 59px 0px 10px
   }
 
 }
