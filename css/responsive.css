@@ -2455,6 +2455,10 @@
   line-height: 0px;
 }
 
+.scroll-top.open{
+  right: 5%;
+}
+
 .sec-title h1 {
   position: relative;
   display: block;
@@ -2763,7 +2767,7 @@
   .main-footer .footer-bottom .footer-social{
     position: relative;
     display: flex;
-    margin: 43px 59px 0px 10px
+    margin: 43px 59px 14px 0px
   }
 
 }
