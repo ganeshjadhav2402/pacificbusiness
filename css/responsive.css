@@ -2668,6 +2668,10 @@
     padding: 60px 15px;
   }
 
+  .testimonial-section.style-two {
+    padding-top: 10px;
+}
+
   .fact-counter.about-page-2 {
     padding: 120px 0px 0px;
   }
@@ -2800,7 +2804,7 @@
 }
 
 .main-footer .footer-top .bg-column{
-  margin-top: -1px;
+  margin-top: 0px;
 }
 
   .main-footer .footer-top .footer-column:nth-child(2){
