@@ -2800,7 +2800,7 @@
 
 .main-footer .footer-top .logo-widget .text {
   display: flex;
-  justify-content: center;
+  text-align: center;
 }
 
 .main-footer .footer-top .bg-column{
