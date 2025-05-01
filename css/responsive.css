@@ -2678,13 +2678,15 @@
   }
 
   .counter-block-two .inner-box {
-    padding: 1px 0px 21px 0px;
+    padding: 12px 0px 21px 0px;
     width: 50%;
-    height: 140px;
+    height: 152px;
   }
 
   .counter-block-two .inner-box .text {
     top: 10px;
+    font-size: 15px;
+    line-height: 20px;
   }
 
   .counter-block-two .inner-box .icon-box img {
