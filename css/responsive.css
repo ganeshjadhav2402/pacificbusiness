@@ -2511,6 +2511,9 @@
   margin-bottom: 30px;
 }
 
+.service-section .service-block {
+  padding: 0px 0px 0px 0px;
+}
 .service-block{
   width: 50%;
 }
