@@ -2668,9 +2668,9 @@
     padding: 60px 15px;
   }
 
-.about-page-2 .inner-content{
+/* .about-page-2 .inner-content{
   display: none;
-}
+} */
 
   .team-style-two.about-page-2 {
     padding: 0px 0px 20px 0px;
@@ -2684,9 +2684,12 @@
   .testimonial-section.style-two {
     padding-top: 10px;
 }
+.testimonial-section.style-two .inner-content{
+  display: none;
+}
 
   .fact-counter.about-page-2 {
-    padding: 20px 0px 0px;
+    padding: 120px 0px 0px;
   }
 
   .fact-counter.about-page-2 .counter-block{
