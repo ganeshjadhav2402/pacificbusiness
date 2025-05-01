@@ -2537,6 +2537,23 @@
   line-height: 20px;
 }
 
+.service-banner .content-box h1 {
+  font-size: 40px;
+}
+
+.service-banner .content-box h3 {
+  font-size: 17px;
+  line-height: 23px;
+}
+
+.service-banner {
+  padding: 46px 0px;
+}
+
+.counter-style-two.service-page .inner-container {
+  padding: 10px 60px 0px 60px;
+}
+
   .ourmission-style-two .content-box .inner-content .content .lower-content{
     padding-left: 0px;
   }
