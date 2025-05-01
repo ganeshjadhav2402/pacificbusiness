@@ -2668,6 +2668,10 @@
     padding: 60px 15px;
   }
 
+  .team-style-two.about-page-2 {
+    padding: 0px 0px 20px 0px;
+}
+
   .testimonial-section.style-two {
     padding-top: 10px;
 }
@@ -2800,7 +2804,7 @@
 
 .main-footer .footer-top .logo-widget .text {
   display: flex;
-  text-align: center;
+  text-align: center; 
 }
 
 .main-footer .footer-top .bg-column{
