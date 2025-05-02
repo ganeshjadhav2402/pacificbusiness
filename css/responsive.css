@@ -2680,8 +2680,13 @@
   }
 
   .statistics-section .inner-box{
-    padding: 50px 30px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
   }
+
+  .statistics-section .inner-box .top-box {
+    margin-bottom: 0px;
+}
 
   .statistics-section .inner-box .video-box {
     margin-bottom: 10px;
