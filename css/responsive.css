@@ -2683,6 +2683,10 @@
     padding: 50px 30px;
   }
 
+  .statistics-section .inner-box .video-box {
+    margin-bottom: 10px;
+}
+
   .about-banner-two .content-box .lower-box h1{
     font-size: 26px;
     line-height: 28px;
