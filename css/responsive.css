@@ -2705,6 +2705,11 @@
   display: none;
 } */
 
+.fact-counter.team-page-2 .inner-container {
+  display: flex;
+  justify-content: ;
+}
+
 .page-title {
   padding: 32px 0px;
 }
@@ -2724,9 +2729,9 @@
   /* margin: -175px -55px 0px -55px; */
 }
 
-.fact-counter.team-page-2 {
+/* .fact-counter.team-page-2 {
   padding: 15px 0px 10px 0px;
-}
+} */
 
   .team-style-two.about-page-2 {
     padding: 0px 0px 20px 0px;
