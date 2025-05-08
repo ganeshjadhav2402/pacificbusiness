@@ -2755,8 +2755,23 @@
     padding: 0px 0px 20px 0px;
 }
 
-.team-style-four.team-page-2 .team-block-four {
+.team-style-four.team-page-2 .container{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.team-style-four.team-page-2 .team-block {
+  padding: 5px 10px 5px 10px;
   width: 49%;
+}
+
+.team-block-four .inner-box {
+  width: 100%;
+}
+
+.team-style-four.team-page-2 .team-block-four {
+  margin-bottom: 30px;
+  width: 100%;
 }
 
 .team-block-two .inner-box .image-box {
