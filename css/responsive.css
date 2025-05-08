@@ -2942,6 +2942,7 @@
   .main-footer .footer-bottom .copyright {
     position: absolute;
     display: flex;
+    padding: 0px 55px 0px 55px;
   }
 
   .main-footer .footer-bottom .footer-widget .widget-content{
