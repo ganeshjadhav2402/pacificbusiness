@@ -2859,6 +2859,10 @@
     margin: 0px 2px;
   }
 
+  .page-title.blog-page {
+    padding: 75px 0px 70px 0px;
+}
+
   .blog-single .blog-single-content .post-share-option .tags{
     float: none;
     display: block;
