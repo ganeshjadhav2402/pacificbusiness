@@ -2863,6 +2863,10 @@
     padding: 75px 0px 70px 0px;
 }
 
+.blog-grid {
+  padding: 35px 0px 25px 0px;
+}
+
   .blog-single .blog-single-content .post-share-option .tags{
     float: none;
     display: block;
