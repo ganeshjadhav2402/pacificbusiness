@@ -2906,6 +2906,42 @@
   display: none;
 }
 
+.contact-banner {
+  padding: 45px 0px;
+}
+
+.contact-banner .content-box h1 {
+  font-size: 40px;
+}
+
+.contact-banner .content-box h3 {
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.contact-section {
+  padding: 0px 0px;
+}
+
+.contact-info-section.contact-page-1 {
+  padding: 50px 0px 0px 0px;
+}
+
+.contact-info-section.contact-page-1 .container{
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.contact-info-section.contact-page-1 .container .info-column{
+  width: 50%;
+  padding: 0px 15px;
+}
+
+.contact-info-section .single-info-box {
+  padding: 15px;
+}
+
   .contact-section .agent-content .single-agent-box .content-box .agent-image{
     position: relative;
     margin-bottom: 15px;
