@@ -2947,6 +2947,11 @@
   line-height: 20px;
 }
 
+.contact-section .map-column .google-map-area{
+  width: 347px;
+    height: 250px;
+}
+
   .contact-section .agent-content .single-agent-box .content-box .agent-image{
     position: relative;
     margin-bottom: 15px;
