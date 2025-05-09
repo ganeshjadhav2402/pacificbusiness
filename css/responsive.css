@@ -2942,6 +2942,11 @@
   padding: 15px;
 }
 
+.contact-info-section .single-info-box .text {
+  font-size: 15px;
+  line-height: 20px;
+}
+
   .contact-section .agent-content .single-agent-box .content-box .agent-image{
     position: relative;
     margin-bottom: 15px;
