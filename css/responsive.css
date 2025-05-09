@@ -2898,6 +2898,14 @@
     top: 0px;
   }
 
+  .news-block-three .inner-box .lower-content {
+    padding: 20px 15px 10px 30px;
+}
+
+.news-block-two .inner-box .text {
+  display: none;
+}
+
   .contact-section .agent-content .single-agent-box .content-box .agent-image{
     position: relative;
     margin-bottom: 15px;
