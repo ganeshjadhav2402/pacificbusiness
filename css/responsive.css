@@ -2211,6 +2211,15 @@
     text-align: center;
   }
 
+  .main-footer .footer-top .logo-widget .footer-logo {
+    display: flex;
+    justify-content: center;
+  }
+
+  .main-footer .footer-top .logo-widget .text {
+    text-align: center;
+  }
+
   .our-value .inner-container .inner-box{
     padding: 60px 30px 30px 30px;
   }
