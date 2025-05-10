@@ -2289,6 +2289,22 @@
     margin-left: 3px;
   }
 
+  .blog-single .blog-single-content .news-block-four .lower-content h3 {
+    text-align: justify;
+  }
+
+  .blog-single .blog-single-content .content-style-two .text {
+    text-align: justify;
+  }
+
+  .blog-single .blog-single-content .content-style-one .text p:last-child {
+    text-align: justify;
+  }
+
+  .news-block-four .inner-box .lower-content .text {
+    text-align: justify;
+  }
+
   .project-block-one .inner-box .lower-content .count-number{
     display: none;
   }
