@@ -2198,6 +2198,14 @@
     top: 0px;
   }
 
+  .main-footer .footer-top {
+        padding-bottom: 0px;
+    }
+  
+  .main-footer .footer-bottom {
+        padding: 10px 5px 10px 5px;
+    }
+
   .main-footer .footer-bottom .copyright{
     float: none;
     display: block;
@@ -2218,6 +2226,17 @@
 
   .main-footer .footer-top .logo-widget .text {
     text-align: center;
+  }
+
+  .main-footer .footer-top .footer-column:nth-child(2){
+    width: 36%;
+  }
+
+  .main-footer .footer-top .footer-column:nth-child(3){
+    width: 25%;
+  }
+  .main-footer .footer-top .footer-column:nth-child(4){
+    width: 39%;
   }
 
   .our-value .inner-container .inner-box{
