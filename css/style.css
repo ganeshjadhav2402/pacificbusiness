@@ -3307,10 +3307,6 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   margin-bottom: 19px;
 }
 
-.main-footer .footer-top .footer-column:nth-child(4){
-  display: none;
-}
-
 .main-footer .footer-top .links-widget .widget-content ul li{
   position: relative;
   display: block;
