@@ -394,6 +394,13 @@
 
 }
 
+@media only screen and (min-width: 992px){
+  
+ .main-footer .footer-top .footer-column:nth-child(4){
+  display: none;
+  }
+}
+
 
 
 @media only screen and (max-width: 991px){
@@ -2113,6 +2120,10 @@
   .news-block-four.links-block .image-box .site-links{
     font-size: 11px;
   }
+
+      .main-footer .footer-bottom .footer-widget .widget-content {
+        display: none;
+    }
 
 }
 
