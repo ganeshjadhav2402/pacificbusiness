@@ -1311,6 +1311,13 @@
 
 }
 
+@media only screen and (min-width: 767px){
+  
+ .main-footer .footer-top .footer-column:nth-child(4){
+  display: none;
+  }
+}
+
 @media only screen and (max-width: 767px){
 	
 	.main-header .header-top .header-info,
