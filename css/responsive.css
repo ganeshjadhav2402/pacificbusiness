@@ -2199,12 +2199,14 @@
   }
 
   .main-footer .footer-top {
-        padding-bottom: 0px;
+      padding-bottom: 0px;
     }
   
   .main-footer .footer-bottom {
-        padding: 10px 5px 10px 5px;
-    }
+    padding: 10px 5px 10px 5px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
 
   .main-footer .footer-bottom .copyright{
     float: none;
