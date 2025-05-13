@@ -2304,6 +2304,10 @@
     padding-left: 30px;
   }
 
+  .blog-single .blog-single-content .news-block-four .inner-box .lower-content h2{
+    font-size: 25px;
+}
+
   .blog-single .blog-single-content .author-box .author-image{
     position: relative;
     left: 0px;
@@ -2324,11 +2328,20 @@
   }
 
   .blog-single .blog-single-content .content-style-two .text {
+    padding-bottom: 10px;
     text-align: justify;
   }
 
   .blog-single .blog-single-content .content-style-one .text p:last-child {
     text-align: justify;
+  }
+
+  .blog-single .blog-single-content .group-title {
+    font-size: 25px;
+  }
+
+  .blog-single .blog-single-content .news-block-four .inner-box .lower-content{
+    padding-top: 0px;
   }
 
   .news-block-four .inner-box .lower-content .text {
