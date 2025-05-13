@@ -2319,6 +2319,10 @@
     padding-left: 0px;
   }
 
+  .blog-single .blog-single-content .post-share-option {
+    padding: 0px 0px 15px 0px;
+  }
+
   .blog-single .blog-single-content .post-share-option .social-links li{
     margin-left: 3px;
   }
@@ -2330,6 +2334,18 @@
   .blog-single .blog-single-content .content-style-two .text {
     padding-bottom: 10px;
     text-align: justify;
+  }
+
+  .blog-single .blog-single-content .content-style-two h3 {
+    font-size: 20px;
+  }
+
+  .blog-single .blog-single-content .content-style-two .text blockquote {
+    font-size: 20px;
+  }
+
+  .blog-single .blog-single-content .content-style-one .text {
+    font-size: 20px;
   }
 
   .blog-single .blog-single-content .content-style-one .text p:last-child {
