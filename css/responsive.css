@@ -2198,6 +2198,32 @@
     top: 0px;
   }
 
+  .counter-block-one .text {
+    font-size: 10px;
+    top: -52px;
+    line-height: 17px;
+}
+
+.counter-style-two.service-page {
+  padding-bottom: 10px;
+}
+
+  .counter-style-two .inner-box .counter-outer{
+        /* max-width: 485px; */
+        display: flex;
+        min-height: 100px;
+}
+
+  .counter-style-two .inner-box .counter-block-one {
+    width: 190px;
+    height: 135px;
+}
+
+.counter-block-one .count-outer span {
+  font-size: 25px;
+  line-height: 0px;
+}
+
   .main-footer .footer-top {
       padding-bottom: 0px;
     }
