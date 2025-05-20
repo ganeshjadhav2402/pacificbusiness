@@ -13,3 +13,7 @@ Allow: http://pacificbusinesspark.in/pages/gallery.html
 Allow: http://pacificbusinesspark.in/pages/clients.html
 Allow: http://pacificbusinesspark.in/pages/blog.html
 Allow: http://pacificbusinesspark.in/pages/contact.html
+Allow: http://pacificbusinesspark.in/pages/blogs/blog1.html
+Allow: http://pacificbusinesspark.in/pages/blogs/blog4.html
+Allow: http://pacificbusinesspark.in/pages/blogs/blog3.html
+Allow: http://pacificbusinesspark.in/pages/blogs/blog5.html
