@@ -2204,6 +2204,14 @@
     line-height: 17px;
 }
 
+.gallery-banner {
+  padding: 60px 0px 20px 0px;
+}
+
+.image-gallery{
+  padding: 30px 0px 0px 0px;
+}
+
 .counter-style-two.service-page {
   padding-bottom: 10px;
 }
