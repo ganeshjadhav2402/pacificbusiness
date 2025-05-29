@@ -2198,6 +2198,23 @@
     top: 0px;
   }
 
+  .page-title{
+    padding: 50px 0px 30px 0px;
+  }
+
+  .page-title .content-box h3 {
+    font-size: 13px;
+    line-height: 20px;
+  }
+
+  .client-style-five .inner-container {
+    padding: 20px 0px 20px 0px;
+  }
+
+  .fact-counter.team-page-2 {
+        padding: 20px 0px 20px 0px;
+    }
+
   .counter-block-one .text {
     font-size: 10px;
     top: -52px;
