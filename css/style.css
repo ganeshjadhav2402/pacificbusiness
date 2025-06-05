@@ -1371,6 +1371,8 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 }
 
 .main-slider .slide{
+  width: auto;
+  height: 768px;
   position:relative;
   padding:230px 0px 220px 0px;
   background-size:cover;
