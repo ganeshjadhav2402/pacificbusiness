@@ -578,6 +578,7 @@ img {
   line-height: 40px;
   transition: all 500ms ease;
 }
+
 .main-header .header-upper .inner-container .info-box .icon-mail{
   position: absolute;
   left: 0px;
@@ -651,7 +652,7 @@ img {
   position: relative;
   display: inline-block;
   top: -8px;
-  left: -136px;
+  left: -136px; 
 }
 
 .main-header .header-upper .inner-container .logo-box .outer-line a{
